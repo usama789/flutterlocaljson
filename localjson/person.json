@@ -1,0 +1,26 @@
+[
+    {
+        "name":"rafay",
+        "phone":"03425454",
+        "location":"uk",
+        "status":"single"
+    },
+    {
+        "name":"ali",
+        "phone":"03425454",
+        "location":"pakistan",
+        "status":"married"
+    },
+    {
+        "name":"maham",
+        "phone":"03425454",
+        "location":"germany",
+        "status":"single"
+    },
+    {
+        "name":"aijaz sahb",
+        "phone":"03425454",
+        "location":"usa",
+        "status":"single"
+    }
+]
